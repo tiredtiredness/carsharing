@@ -1,0 +1,103 @@
+/* Основные стили для страницы регистрации */
+.register {
+    padding: 30px;
+    background-color: #f9f9f9;
+}
+
+/* Заголовок формы */
+.register__title {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Список ошибок */
+.register__errors {
+    color: red;
+    margin-bottom: 20px;
+}
+
+.register__errors li {
+    font-size: 1rem;
+}
+
+/* Форма регистрации */
+.register__form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+/* Обертка для каждого поля ввода */
+.register__input-group {
+    margin-bottom: 15px;
+}
+
+.register__input-group label {
+    display: block;
+    font-size: 1rem;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+.register__input-group input {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+/* Для файлового ввода */
+.register__input-group input[type="file"] {
+    padding: 5px;
+}
+
+/* Кнопка отправки */
+.register__button {
+    padding: 12px 24px;
+    background-color: #3b82f6;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-size: 1rem;
+    width: 100%;
+}
+
+.register__button:hover {
+    background-color: #00408a;
+}
+
+/* Адаптивность */
+@media (max-width: 768px) {
+    .register__form {
+        padding: 15px;
+    }
+
+    .register__button {
+        font-size: 1rem;
+        padding: 12px;
+    }
+
+    .register__title {
+        font-size: 1.5rem;
+    }
+}
+
+.register__login-link {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.captcha-image {
+    width: calc(100% - 20px);  /* Новая ширина */
+    height: auto;  /* Сохраняем пропорции */
+}

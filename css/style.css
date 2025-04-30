@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+@import url(normalize.css);
+
+/* Общие стили для всех элементов */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    background-color: #f5f7fa;
+    color: #333;
+    line-height: 1.6;
+    padding: 0 20px;
+}
+
+header {
+    background-color: #1e293b;
+    color: white;
+    padding: 15px 0;
+}
+
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    padding: 5px 10px;
+    transition: background-color 0.3s;
+}
+
+nav a:hover {
+    background-color: #334155;
+    border-radius: 5px;
+}
+
+/* Основной блок */
+.main {
+    max-width: 1000px;
+    margin: 30px auto;
+    min-height: calc(100dvh - 215px);
+}
+
+/* Hero Section */
+.hero {
+    text-align: center;
+    padding: 50px 20px;
+    background: linear-gradient(to right, #4f46e5, #3b82f6);
+    color: white;
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+
+.hero__title {
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+}
+
+.hero__description {
+    font-size: 1.2rem;
+    margin-bottom: 25px;
+}
+
+.hero__btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: white;
+    color: #3b82f6;
+    border-radius: 8px;
+    font-weight: 600;
+    text-decoration: none;
+    margin: 0 10px;
+    transition: background-color 0.3s;
+}
+
+.hero__btn:hover {
+    background-color: #e0e7ff;
+}
+
+/* About Section */
+.about {
+    background-color: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    margin-bottom: 40px;
+}
+
+.about__title {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+}
+
+.about__text {
+    margin-bottom: 20px;
+}
+
+.about__list {
+    list-style: disc;
+    padding-left: 20px;
+}
+
+.about__item {
+    margin-bottom: 10px;
+}
+
+/* Видео Section */
+.video {
+    border-radius: 16px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.05);
+}
+
+.video__player {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #1e293b;
+    color: white;
+    margin-top: 50px;
+    border-top: 4px solid #3b82f6;
+}

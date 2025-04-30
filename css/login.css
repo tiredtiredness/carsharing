@@ -1,0 +1,100 @@
+/* Основные стили для страницы входа */
+.login {
+    padding: 30px;
+    background-color: #f9f9f9;
+}
+
+/* Заголовок формы */
+.login__title {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Сообщение об ошибке */
+.login__error {
+    color: red;
+    margin-bottom: 20px;
+    font-size: 1rem;
+}
+
+/* Форма входа */
+.login__form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+/* Обертка для каждого поля ввода */
+.login__input-group {
+    margin-bottom: 15px;
+}
+
+.login__input-group label {
+    display: block;
+    font-size: 1rem;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+.login__input-group input {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+/* Кнопка отправки */
+.login__button {
+    padding: 12px 24px;
+    background-color: #3b82f6;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-size: 1rem; 
+    width: 100%;
+}
+
+.login__button:hover {
+    background-color: #00408a;
+}
+
+/* Ссылка на регистрацию */
+.login__register-link {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.login__link {
+    color: #0056b3;
+    text-decoration: none;
+}
+
+.login__link:hover {
+    text-decoration: underline;
+}
+
+/* Адаптивность */
+@media (max-width: 768px) {
+    .login__form {
+        padding: 15px;
+    }
+
+    .login__button {
+        font-size: 1rem;
+        padding: 12px;
+    }
+
+    .login__title {
+        font-size: 1.5rem;
+    }
+}

@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+/* Основной блок контактов */
+.contact {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 0 20px;
+}
+
+/* Форма обратной связи */
+.contact-form {
+    background-color: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    margin-bottom: 40px;
+}
+
+.contact-form__title {
+    font-size: 2rem;
+    color: #1e293b;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.contact-form__group {
+    margin-bottom: 20px;
+}
+
+.contact-form__label {
+    display: block;
+    font-weight: 600;
+    color: #1e293b;
+    margin-bottom: 8px;
+    font-size: 0.95rem;
+}
+
+.contact-form__input,
+.contact-form__textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    transition: all 0.3s;
+}
+
+.contact-form__textarea {
+    min-height: 150px;
+    resize: vertical;
+}
+
+.contact-form__input:focus,
+.contact-form__textarea:focus {
+    outline: none;
+    border-color: #3b82f6;
+    box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.2);
+}
+
+.contact-form__btn {
+    padding: 12px 24px;
+    background-color: #3b82f6;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-size: 1rem;
+    width: 100%;
+}
+
+.contact-form__btn:hover {
+    background-color: #2563eb;
+}
+
+/* Разделительная линия */
+.contact__divider {
+    border: none;
+    height: 1px;
+    background-color: #e2e8f0;
+    margin: 40px 0;
+}
+
+/* Контактная информация */
+.contact-info {
+    background-color: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+.contact-info__title {
+    font-size: 1.5rem;
+    color: #1e293b;
+    margin-bottom: 20px;
+}
+
+.contact-info__item {
+    margin-bottom: 15px;
+    font-size: 1rem;
+    color: #334155;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.contact-info__item:before {
+    content: "";
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    background-color: #3b82f6;
+    border-radius: 50%;
+}
+
+/* Сообщения */
+.contact-message {
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 25px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.contact-message--success {
+    background-color: #d1fae5;
+    color: #065f46;
+}
+
+.contact-message--error {
+    background-color: #fee2e2;
+    color: #991b1b;
+}
+
+/* Адаптивность */
+@media (max-width: 768px) {
+    .contact-form,
+    .contact-info {
+        padding: 20px;
+    }
+    
+    .contact-form__title,
+    .contact-info__title {
+        font-size: 1.5rem;
+    }
+}
