@@ -1,0 +1,495 @@
+<math_error>
+	<timestamp>2025-05-12 22:03:40 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Векторы должны иметь одинаковую размерность</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>83</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-12 22:03:40 (UTC)</timestamp>
+	<type>Math Warning</type>
+	<code>512</code>
+	<message>Элемент вектора 2 с индексом 1 не является числом (используется 0)</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>97</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-12 22:03:40 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Деление на ноль невозможно</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>116</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-12 22:03:42 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Векторы должны иметь одинаковую размерность</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>83</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-12 22:03:42 (UTC)</timestamp>
+	<type>Math Warning</type>
+	<code>512</code>
+	<message>Элемент вектора 2 с индексом 1 не является числом (используется 0)</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>97</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-12 22:03:42 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Деление на ноль невозможно</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>116</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-12 22:04:30 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Векторы должны иметь одинаковую размерность</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>83</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-12 22:04:30 (UTC)</timestamp>
+	<type>Math Warning</type>
+	<code>512</code>
+	<message>Элемент вектора 2 с индексом 1 не является числом (используется 0)</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>97</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-12 22:04:30 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Деление на ноль невозможно</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>116</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-12 22:04:32 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Векторы должны иметь одинаковую размерность</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>83</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-12 22:04:32 (UTC)</timestamp>
+	<type>Math Warning</type>
+	<code>512</code>
+	<message>Элемент вектора 2 с индексом 1 не является числом (используется 0)</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>97</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-12 22:04:32 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Деление на ноль невозможно</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>116</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-12 22:04:51 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Векторы должны иметь одинаковую размерность</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>83</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-12 22:04:51 (UTC)</timestamp>
+	<type>Math Warning</type>
+	<code>512</code>
+	<message>Элемент вектора 2 с индексом 1 не является числом (используется 0)</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>97</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-12 22:04:51 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Деление на ноль невозможно</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>116</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-12 22:04:52 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Векторы должны иметь одинаковую размерность</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>83</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-12 22:04:52 (UTC)</timestamp>
+	<type>Math Warning</type>
+	<code>512</code>
+	<message>Элемент вектора 2 с индексом 1 не является числом (используется 0)</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>97</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-12 22:04:52 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Деление на ноль невозможно</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>116</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-12 22:06:41 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Векторы должны иметь одинаковую размерность</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>83</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-12 22:06:41 (UTC)</timestamp>
+	<type>Math Warning</type>
+	<code>512</code>
+	<message>Элемент вектора 2 с индексом 1 не является числом (используется 0)</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>97</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-12 22:06:41 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Деление на ноль невозможно</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>116</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-13 10:25:37 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Векторы должны иметь одинаковую размерность</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>83</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-13 10:25:37 (UTC)</timestamp>
+	<type>Math Warning</type>
+	<code>512</code>
+	<message>Элемент вектора 2 с индексом 1 не является числом (используется 0)</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>97</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-13 10:25:37 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Деление на ноль невозможно</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>116</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-13 10:27:04 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Векторы должны иметь одинаковую размерность</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>88</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-13 10:27:04 (UTC)</timestamp>
+	<type>Math Warning</type>
+	<code>512</code>
+	<message>Элемент вектора 2 с индексом 1 не является числом (используется 0)</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>102</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-13 10:27:04 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Деление на ноль невозможно</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>121</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-13 10:29:09 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Векторы должны иметь одинаковую размерность</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>93</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-13 10:29:09 (UTC)</timestamp>
+	<type>Math Warning</type>
+	<code>512</code>
+	<message>Элемент вектора 2 с индексом 1 не является числом (используется 0)</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>107</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-13 10:29:09 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Деление на ноль невозможно</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>126</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-13 10:29:23 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Векторы должны иметь одинаковую размерность</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>93</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-13 10:29:23 (UTC)</timestamp>
+	<type>Math Warning</type>
+	<code>512</code>
+	<message>Элемент вектора 2 с индексом 1 не является числом (используется 0)</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>107</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-13 10:29:23 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Деление на ноль невозможно</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>126</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-13 10:29:32 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Векторы должны иметь одинаковую размерность</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>93</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-13 10:29:32 (UTC)</timestamp>
+	<type>Math Warning</type>
+	<code>512</code>
+	<message>Элемент вектора 2 с индексом 1 не является числом (используется 0)</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>107</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-13 10:29:32 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Деление на ноль невозможно</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>126</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-13 10:45:41 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Векторы должны иметь одинаковую размерность</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>88</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-13 10:45:41 (UTC)</timestamp>
+	<type>Math Warning</type>
+	<code>512</code>
+	<message>Элемент вектора 2 с индексом 1 не является числом (используется 0)</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>102</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-13 10:45:41 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Деление на ноль невозможно</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>121</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-13 10:46:38 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Векторы должны иметь одинаковую размерность</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>88</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-13 10:46:38 (UTC)</timestamp>
+	<type>Math Warning</type>
+	<code>512</code>
+	<message>Элемент вектора 2 с индексом 1 не является числом (используется 0)</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>102</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-13 10:46:38 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Деление на ноль невозможно</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>121</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-14 12:55:28 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Векторы должны иметь одинаковую размерность</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>88</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-14 12:55:28 (UTC)</timestamp>
+	<type>Math Warning</type>
+	<code>512</code>
+	<message>Элемент вектора 2 с индексом 1 не является числом (используется 0)</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>102</line>
+	<variables>
+	</variables>
+</math_error>
+
+<math_error>
+	<timestamp>2025-05-14 12:55:28 (UTC)</timestamp>
+	<type>Math Error</type>
+	<code>256</code>
+	<message>Деление на ноль невозможно</message>
+	<file>/Applications/MAMP/htdocs/handler/math_errors.php</file>
+	<line>121</line>
+	<variables>
+	</variables>
+</math_error>
+

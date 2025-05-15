@@ -1,0 +1,144 @@
+<errortype>
+<datetime>2025-05-12 10:41:38 (UTC)</datetime>
+<errormsg>Координата в одном из векторов не является числом, будет использоваться ноль</errormsg>
+<errornumber>512</errornumber>
+<filename>/Applications/MAMP/htdocs/third/distance.php</filename>
+<scriptname>/third/index.php</scriptname>
+<scriptlinenum>19</scriptlinenum>
+</errortype>
+<errortype>
+<datetime>2025-05-12 10:41:38 (UTC)</datetime>
+<errormsg>Координата в одном из векторов не является числом, будет использоваться ноль</errormsg>
+<errornumber>512</errornumber>
+<filename>/Applications/MAMP/htdocs/third/distance.php</filename>
+<scriptname>/third/index.php</scriptname>
+<scriptlinenum>19</scriptlinenum>
+</errortype>
+<errortype>
+<datetime>2025-05-12 10:41:38 (UTC)</datetime>
+<errormsg>Координата в одном из векторов не является числом, будет использоваться ноль</errormsg>
+<errornumber>512</errornumber>
+<filename>/Applications/MAMP/htdocs/third/distance.php</filename>
+<scriptname>/third/index.php</scriptname>
+<scriptlinenum>19</scriptlinenum>
+</errortype>
+<errortype>
+<datetime>2025-05-12 10:41:39 (UTC)</datetime>
+<errormsg>Координата в одном из векторов не является числом, будет использоваться ноль</errormsg>
+<errornumber>512</errornumber>
+<filename>/Applications/MAMP/htdocs/third/distance.php</filename>
+<scriptname>/third/index.php</scriptname>
+<scriptlinenum>19</scriptlinenum>
+</errortype>
+<errortype>
+<datetime>2025-05-12 10:41:39 (UTC)</datetime>
+<errormsg>Координата в одном из векторов не является числом, будет использоваться ноль</errormsg>
+<errornumber>512</errornumber>
+<filename>/Applications/MAMP/htdocs/third/distance.php</filename>
+<scriptname>/third/index.php</scriptname>
+<scriptlinenum>19</scriptlinenum>
+</errortype>
+<errortype>
+<datetime>2025-05-12 10:41:39 (UTC)</datetime>
+<errormsg>Координата в одном из векторов не является числом, будет использоваться ноль</errormsg>
+<errornumber>512</errornumber>
+<filename>/Applications/MAMP/htdocs/third/distance.php</filename>
+<scriptname>/third/index.php</scriptname>
+<scriptlinenum>19</scriptlinenum>
+</errortype>
+<errortype>
+<datetime>2025-05-12 10:44:19 (UTC)</datetime>
+<errormsg>Координата в одном из векторов не является числом, будет использоваться ноль</errormsg>
+<errornumber>512</errornumber>
+<filename>/Applications/MAMP/htdocs/third/distance.php</filename>
+<scriptname>/third/index.php</scriptname>
+<scriptlinenum>19</scriptlinenum>
+</errortype>
+<errortype>
+<datetime>2025-05-12 10:44:19 (UTC)</datetime>
+<errormsg>Координата в одном из векторов не является числом, будет использоваться ноль</errormsg>
+<errornumber>512</errornumber>
+<filename>/Applications/MAMP/htdocs/third/distance.php</filename>
+<scriptname>/third/index.php</scriptname>
+<scriptlinenum>19</scriptlinenum>
+</errortype>
+<errortype>
+<datetime>2025-05-12 10:44:19 (UTC)</datetime>
+<errormsg>Координата в одном из векторов не является числом, будет использоваться ноль</errormsg>
+<errornumber>512</errornumber>
+<filename>/Applications/MAMP/htdocs/third/distance.php</filename>
+<scriptname>/third/index.php</scriptname>
+<scriptlinenum>19</scriptlinenum>
+</errortype>
+<errortype>
+<datetime>2025-05-12 10:45:55 (UTC)</datetime>
+<errormsg>Координата в одном из векторов не является числом, будет использоваться ноль</errormsg>
+<errornumber>512</errornumber>
+<filename>/Applications/MAMP/htdocs/third/distance.php</filename>
+<scriptname>/third/index.php</scriptname>
+<scriptlinenum>19</scriptlinenum>
+</errortype>
+<errortype>
+<datetime>2025-05-12 10:45:55 (UTC)</datetime>
+<errormsg>Координата в одном из векторов не является числом, будет использоваться ноль</errormsg>
+<errornumber>512</errornumber>
+<filename>/Applications/MAMP/htdocs/third/distance.php</filename>
+<scriptname>/third/index.php</scriptname>
+<scriptlinenum>19</scriptlinenum>
+</errortype>
+<errortype>
+<datetime>2025-05-12 10:45:56 (UTC)</datetime>
+<errormsg>Координата в одном из векторов не является числом, будет использоваться ноль</errormsg>
+<errornumber>512</errornumber>
+<filename>/Applications/MAMP/htdocs/third/distance.php</filename>
+<scriptname>/third/index.php</scriptname>
+<scriptlinenum>19</scriptlinenum>
+</errortype>
+<errortype>
+<datetime>2025-05-12 10:45:56 (UTC)</datetime>
+<errormsg>Координата в одном из векторов не является числом, будет использоваться ноль</errormsg>
+<errornumber>512</errornumber>
+<filename>/Applications/MAMP/htdocs/third/distance.php</filename>
+<scriptname>/third/index.php</scriptname>
+<scriptlinenum>19</scriptlinenum>
+</errortype>
+<errortype>
+<datetime>2025-05-12 10:46:41 (UTC)</datetime>
+<errormsg>Координата в одном из векторов не является числом, будет использоваться ноль</errormsg>
+<errornumber>512</errornumber>
+<filename>/Applications/MAMP/htdocs/third/distance.php</filename>
+<scriptname>/third/index.php</scriptname>
+<scriptlinenum>19</scriptlinenum>
+</errortype>
+<errortype>
+<datetime>2025-05-12 10:46:41 (UTC)</datetime>
+<errormsg>Координата в одном из векторов не является числом, будет использоваться ноль</errormsg>
+<errornumber>512</errornumber>
+<filename>/Applications/MAMP/htdocs/third/distance.php</filename>
+<scriptname>/third/index.php</scriptname>
+<scriptlinenum>19</scriptlinenum>
+</errortype>
+<errortype>
+<datetime>2025-05-12 10:46:41 (UTC)</datetime>
+<errormsg>Координата в одном из векторов не является числом, будет использоваться ноль</errormsg>
+<errornumber>512</errornumber>
+<filename>/Applications/MAMP/htdocs/third/distance.php</filename>
+<scriptname>/third/index.php</scriptname>
+<scriptlinenum>19</scriptlinenum>
+</errortype>
+<errortype>
+<datetime>2025-05-12 10:46:47 (UTC)</datetime>
+<errormsg>Координата в одном из векторов не является числом, будет использоваться ноль</errormsg>
+<errornumber>512</errornumber>
+<filename>/Applications/MAMP/htdocs/third/distance.php</filename>
+<scriptname>/third/index.php</scriptname>
+<scriptlinenum>19</scriptlinenum>
+</errortype>
+<errortype>
+<datetime>2025-05-12 10:46:47 (UTC)</datetime>
+<errormsg>Координата в одном из векторов не является числом, будет использоваться ноль</errormsg>
+<errornumber>512</errornumber>
+<filename>/Applications/MAMP/htdocs/third/distance.php</filename>
+<scriptname>/third/index.php</scriptname>
+<scriptlinenum>19</scriptlinenum>
+</errortype>
